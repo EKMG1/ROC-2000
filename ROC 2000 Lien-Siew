@@ -2699,7 +2699,7 @@ campaignTrail_temp.state_issue_score_json = [
                 "state_issue_score": -0.55,
                 "weight":1
             }
-        },
+    }
 ]
 
 campaignTrail_temp.candidate_issue_score_json = [
